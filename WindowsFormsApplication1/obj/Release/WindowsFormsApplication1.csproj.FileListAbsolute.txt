@@ -1,0 +1,12 @@
+C:\Dokumente und Einstellungen\Sebastian\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Sebastian\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Dokumente und Einstellungen\Sebastian\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Sebastian\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

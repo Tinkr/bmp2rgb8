@@ -1,0 +1,14 @@
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\obj\Debug\Bmp2RGB8.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\bin\Debug\RGB2BMP.exe.manifest
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\bin\Debug\RGB2BMP.application
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\bin\Debug\RGB2BMP.exe
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\bin\Debug\RGB2BMP.pdb
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\obj\Debug\RGB2BMP.exe.manifest
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\obj\Debug\RGB2BMP.application
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\obj\Debug\RGB2BMP.exe
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\obj\Debug\RGB2BMP.pdb
+C:\Dokumente und Einstellungen\Sebastian\Eigene Dateien\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\obj\Debug\RGB2BMP.Properties.Resources.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\obj\Debug\RGB2BMP.exe
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\BMP2RGB8\WindowsFormsApplication1\obj\Debug\RGB2BMP.pdb
